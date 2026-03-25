@@ -17,7 +17,7 @@ I am a motivated Backend Developer based in **Riyadh, Saudi Arabia**, dedicated 
 
 ### 🚀 Featured Projects
 
-#### 📂 Ultimate Portfolio CMS
+ 📂 Ultimate Portfolio CMS
 A full-stack, hybrid content management system engineered for personal branding.
 *   **Stack:** Laravel 12, Livewire 3, Tailwind CSS 4, MySQL.
 *   **Key Features:** Real-time IP-based visitor analytics, secure admin dashboard, and Spatie Media Library integration.
