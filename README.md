@@ -56,6 +56,7 @@ A comprehensive solution for managing livestock, expenses, and financial transac
     *   Livewire 2024 [🔗](https://www.udemy.com/certificate/UC-03c9bd89-66f4-4571-b968-1e6fe1c343dc/).
     *   Laravel Socialite Guide [🔗](https://www.udemy.com/certificate/UC-6ed39e38-093f-4a5a-89cf-10b5a097985a/)
     *   Web Applications PHP & MYSQL [🔗](https://drive.google.com/file/d/16yJxxWcePkHyuTQuqn7KT8_hDsGm8MDc/view)
+    *   Database Fundamentals [🔗](https://drive.google.com/file/d/1kq21gO2Yk1UR2U-sV9XzeQnEg6ogqOaL/view?usp=sharing)
     *   Computer Network Fundamentals  [🔗](https://drive.google.com/file/d/1QQqLL-vJWzhRDXg_YKHZcW-h5Yf1VUt6/view).
 
 ---
