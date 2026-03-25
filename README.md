@@ -53,8 +53,10 @@ A comprehensive solution for managing livestock, expenses, and financial transac
     *   Laravel 2024 (Levels 1 & 2) .[🔗](https://www.udemy.com/certificate/UC-9a735cff-e618-4ec9-a61a-e5f57208d0a9/) [🔗](https://www.udemy.com/certificate/UC-a8cdeda6-cbd0-4c2e-9bdc-17957011157b/)
     *   Mastering Eloquent ORM [🔗](https://www.udemy.com/certificate/UC-71ad9abf-96b2-4b1f-8ffd-d0302e4b2d26/)
     *   Laravel RESTful APIs Masterclass.[🔗](https://www.udemy.com/certificate/UC-3dc3136f-8467-462d-adf4-db39bda9220f/)
-    *   Fullstack Livewire 2024 & Web Applications PHP/MySQL.
-    *   Computer Network Fundamentals (CCNA).
+    *   Livewire 2024 [🔗](https://www.udemy.com/certificate/UC-03c9bd89-66f4-4571-b968-1e6fe1c343dc/).
+    *   Laravel Socialite Guide [🔗](https://www.udemy.com/certificate/UC-6ed39e38-093f-4a5a-89cf-10b5a097985a/)
+    *   Web Applications PHP & MYSQL [🔗](https://drive.google.com/file/d/16yJxxWcePkHyuTQuqn7KT8_hDsGm8MDc/view)
+    *   Computer Network Fundamentals  [🔗](https://drive.google.com/file/d/1QQqLL-vJWzhRDXg_YKHZcW-h5Yf1VUt6/view).
 
 ---
 
