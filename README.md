@@ -50,8 +50,9 @@ A comprehensive solution for managing livestock, expenses, and financial transac
 
 *   **Bachelor of Information Technology** | *Asyut University (2019 - 2023)*
 *   **Certifications:**
-    *   Laravel 2024 (Levels 1 & 2) & Mastering Eloquent ORM.[Link 🔗](https://www.udemy.com/certificate/UC-9a735cff-e618-4ec9-a61a-e5f57208d0a9/)
-    *   Laravel RESTful APIs Masterclass & Socialite Guide.
+    *   Laravel 2024 (Levels 1 & 2) .[🔗](https://www.udemy.com/certificate/UC-9a735cff-e618-4ec9-a61a-e5f57208d0a9/) [🔗](https://www.udemy.com/certificate/UC-a8cdeda6-cbd0-4c2e-9bdc-17957011157b/)
+    *   Mastering Eloquent ORM [🔗](https://www.udemy.com/certificate/UC-71ad9abf-96b2-4b1f-8ffd-d0302e4b2d26/)
+    *   Laravel RESTful APIs Masterclass.[🔗](https://www.udemy.com/certificate/UC-3dc3136f-8467-462d-adf4-db39bda9220f/)
     *   Fullstack Livewire 2024 & Web Applications PHP/MySQL.
     *   Computer Network Fundamentals (CCNA).
 
